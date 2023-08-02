@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raturiezgina
 - 👀 I’m interested in data engineer, data analyst, and any related field
-- 🌱 I’m currently learning SQL Statement, R fundamental and also using some packages such as shiny
+- 🌱 I’m currently practicing SQL (PostgreSQL), R Programming Languange.
 - 💞️ I’m looking to collaborate on Shiny Developers and R package Developers
 - 📫 Reach me on raturiezgina.21@gmail.com
 
